@@ -1,65 +1,69 @@
-## Hi I’m Durgesh Yadav  👋
- B.Tech student at VIT Bhopal University.
-I’m passionate about building real-world tech projects and improving my problem-solving skills through consistent coding practice.
+# Hi, I’m Durgesh Yadav 👋
 
-🤖 JARVIS Assistant Project
+B.Tech Computer Science Engineering student at **VIT Bhopal University (2nd Year)**. I’m passionate about building intelligent, real-world tech solutions, exploring AI/ML, and continuously sharpening my problem-solving skills through DSA.
 
-I am currently building a JARVIS-like Virtual Assistant inspired by Iron Man.
+---
 
-🔥 Features:
-Wake word activation (“Hey Jarvis”)
-Voice command recognition
-GUI-based interface
-Notes & task management
-Weather updates
-Music control
-System controls (shutdown, camera, etc.)
-Real-time chatbot integration
-🎯 Goal:
-To create a fully functional smart assistant mobile app (APK) with advanced AI capabilities.
+### 🚀 Featured Projects
 
-🧠 Data Structures & Algorithms (DSA)
-I regularly practice coding problems on LeetCode to strengthen my logic and problem-solving skills.
+* **JARVIS Virtual Assistant**
+* An AI-powered personal assistant featuring wake-word activation, voice command recognition, GUI controls, automated task management, system operations, and conversational AI integration.
 
-📌 Focus Areas:
-Arrays & Strings
-Linked Lists
-Recursion
-Searching & Sorting
-Basic Problem Solving
-💡 Objective:
 
-To improve consistency and prepare for technical interviews.
+* **CivicPulse-AI**
+* An AI-driven civic engagement and feedback platform designed to analyze citizen issues, streamline public communication, and extract actionable civic insights.
 
-🎓 Education
-B.Tech (Computer Science Engineering)
-VIT Bhopal University
-Currently in 1st Year
-🛠️ Skills
-Programming: Python (Basics + Practice)
-Problem Solving
-Logical Thinking
-Beginner in AI & Automation
-📈 Future Goals
-Complete full JARVIS Assistant App
-Strengthen DSA & crack coding interviews
-Learn AI/ML concepts deeply
-Build more real-world impactful projects
-📬 Contact- 9369248595
-📧 Email: durgesh.25bce10995@vitbhopal.ac.in
 
-This repository reflects my learning journey, consistency, and growth in tech.
-<!--
-**durgeshyadav859521/durgeshyadav859521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Smart Study Predictor**
+* A predictive analytics tool designed to evaluate study habits, track performance metrics, and forecast academic outcomes to improve learning efficiency.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **HackNova Registration Website**
+* A responsive, full-stack event portal handling user registrations, participant management, and real-time updates for hackathon attendees.
+
+
+* **Digital Literacy Project**
+* An educational initiative focused on building interactive resources and tools to bridge digital literacy gaps and empower learners.
+
+
+
+---
+
+### 🧠 Data Structures & Algorithms (DSA)
+
+I actively solve problems on LeetCode to build algorithmic efficiency and prepare for technical interviews.
+
+* **Focus Areas:** Arrays & Strings, Linked Lists, Recursion & Backtracking, Searching & Sorting, Stacks & Queues, Trees.
+* **Objective:** Achieve strong problem-solving intuition, master core patterns, and maintain daily coding consistency.
+
+---
+
+### 🛠️ Technical Skills
+
+* **Languages:** Python, C/C++, HTML5, CSS3, JavaScript
+* **Domains & Frameworks:** Artificial Intelligence & Machine Learning (Basics), Automation, Web Development
+* **Core Competencies:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Git & GitHub
+
+---
+
+### 🎓 Education
+
+* **B.Tech in Computer Science and Engineering**
+VIT Bhopal University | **2nd Year**
+
+---
+
+### 📈 Current Goals
+
+* Advance from core ML fundamentals into practical deep learning and NLP.
+* Expand the **JARVIS** ecosystem into a standalone, cross-platform application.
+* Solve 300+ problems across LeetCode covering intermediate-to-advanced data structures.
+* Collaborate on impactful open-source and hackathon projects.
+
+---
+
+### 📬 Connect With Me
+
+* **GitHub:** [@durgeshyadav859521](https://www.google.com/search?q=https://github.com/durgeshyadav859521)
+* **Email:** [durgesh.25bce10995@vitbhopal.ac.in](https://www.google.com/search?q=mailto%3Adurgesh.25bce10995%40vitbhopal.ac.in)
+* **Phone:** +91 9369248595
